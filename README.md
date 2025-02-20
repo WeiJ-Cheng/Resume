@@ -38,7 +38,7 @@
 
 ### 💻 Experience
 
-#### **Project Assistant**
+#### **Project Assistant/Data Analyst**
 - Developed and launched a new sales workflow on Walmart: Spearheaded the development of Walmart’s retail platform from the ground up, overseeing all stages of platform creation.
 - Designed automated procurement workflows: Implemented adaptive sales strategies based on market demand, achieving 180% year-over-year sales growth.
 - Managed remote inventory and pricing operations: Developing precise inventory forecasting models in Python to predict product demand.
