@@ -27,7 +27,7 @@
 #### **Expertise**
 - **Programming Language**: Python, SQL, R 
 - **Microsoft Office**: Excel, PowerPoint
-- **Others**:Canva, Adobe Premiere
+- **Others**:Canva, Adobe Premiere, Goole Looker Studio
 
 #### **Languages**
 - **English**: TOEIC 805
@@ -36,35 +36,23 @@
 - **AWS**: AWS Generative AI: Business Skills
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=uuboyscy&theme=dark&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=uuboyscy&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
+### 💻 Experience
 
-<p align="center">
-  <a href="https://github.com/uuboyscy">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uuboyscy&theme=dark&layout=compact&langs_count=8&hide=jupyter%20notebook,css,cython,vba,smarty,jinja,fortran&exclude_repo=thi101,chi101-python-etl-dm-flask,tgi103,cfb101-python-etl,PORTFOLIO,tgi101" alt="Top Languages" />
-  </a>
-</p>
+#### **Project Assistant**
+- Developed and launched a new sales workflow on Walmart: Spearheaded the development of Walmart’s retail platform from the ground up, overseeing all stages of platform creation.
+- Designed automated procurement workflows: Implemented adaptive sales strategies based on market demand, achieving 180% year-over-year sales growth.
+- Managed remote inventory and pricing operations: Developing precise inventory forecasting models in Python to predict product demand.
+- Negotiated with international suppliers and collaborated with Walmart platform: Led negotiations with overseas suppliers and facilitated effective communication and collaboration with the Walmart platform.
+- Sales Data Visualization: Leveraged data visualization techniques (Looker Studio) to monitor and analyze daily sales, inventory, and procurement data. Enabled real-time insights for the management team to optimize decision-making processes, improving operational efficiency.
 
 ---
-
 ### ✨ Fun Facts
 - 🤹 Working as a data engineer while also delving into sustainability-related topics.
 - 🎯 Every data puzzle solved is another masterpiece created.
 - 🚴‍♂️ Traveling, adventure, and creativity keep my ideas in motion.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+data+solutions.;Creating+cloud-native+pipelines.;Thanks+for+stopping+by!&center=true&color=FF0000&size=19" alt="Typing Animation" />
-</p>
-
 ---
 
 ### 📫 Contact Me
-Feel free to reach out via [email](mailto:uuboyscy@uuboyscy.dev) or connect on [LinkedIn](https://www.linkedin.com/in/chengyou-shi/).
+Feel free to reach out via [email](mailto:a26591349@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/wei-7en-chen9).
 
----
-
-<p align="center">🚀 Crafted with ❤️ by <a href="https://github.com/uuboyscy/">uuboyscy</a></p>
