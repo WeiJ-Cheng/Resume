@@ -25,7 +25,8 @@
 ### ⚙️ Skills & Tools
 
 #### **Expertise**
-- **Programming Language**: Python, SQL, R 
+- **Programming Language**: Python, SQL, R
+- **Analysis Tool**: Microsoft Power Automate, Google Looker Studio
 - **Microsoft Office**: Excel, PowerPoint
 - **Others**:Canva, Adobe Premiere, Goole Looker Studio
 
